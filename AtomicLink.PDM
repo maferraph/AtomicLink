@@ -1,0 +1,135 @@
+[Root]
+Most Recent Package=Instalação do Atomic Link
+
+
+[Package|Instalação do Atomic Link|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Meus documentos\Programas\Atomic Link\Package
+
+[Package|Instalação do Atomic Link|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Instalação do Atomic Link|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instalação do Atomic Link|Files Found]
+
+[Package|Instalação do Atomic Link|Files Released]
+
+[Package|Instalação do Atomic Link|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\DAO360.DLL=
+C:\WINDOWS\SYSTEM\RICHED32.DLL=
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO360.DLL=
+
+[Package|Instalação do Atomic Link|Out-of-Date Dependency Information]
+
+[Package|Instalação do Atomic Link|Files Added]
+c:\meus documentos\programas\atomic link\arj.exe=
+c:\meus documentos\programas\atomic link\atomiclink.html=
+c:\meus documentos\programas\atomic link\bdaf.af=
+c:\meus documentos\programas\atomic link\bdnovos.af=
+c:\meus documentos\programas\atomic link\logotipo.jpg=
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=
+
+[Package|Instalação do Atomic Link|Files Removed]
+
+[Package|Instalação do Atomic Link|Files In Project]
+C:\Meus documentos\Programas\Atomic Link\AtomicLink.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Meus documentos\Programas\Atomic Link\ARJ.EXE=Yes
+C:\Meus documentos\Programas\Atomic Link\AtomicLink.html=Yes
+C:\Meus documentos\Programas\Atomic Link\BDAF.af=Yes
+C:\Meus documentos\Programas\Atomic Link\BDNovos.af=Yes
+C:\Meus documentos\Programas\Atomic Link\Logotipo.jpg=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO360.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Instalação do Atomic Link|Configure Registry Files]
+Applicable=No
+
+[Package|Instalação do Atomic Link|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalação do Atomic Link|Install Locations]
+C:\Meus documentos\Programas\Atomic Link\AtomicLink.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\DAO360.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Setup.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ST6UNST.EXE=$(WinPath)
+C:\Meus documentos\Programas\Atomic Link\ARJ.EXE=$(AppPath)
+C:\Meus documentos\Programas\Atomic Link\AtomicLink.html=$(AppPath)
+C:\Meus documentos\Programas\Atomic Link\BDAF.af=$(AppPath)
+C:\Meus documentos\Programas\Atomic Link\BDNovos.af=$(AppPath)
+C:\Meus documentos\Programas\Atomic Link\Logotipo.jpg=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio 6.0\VB98\Wizards\PDWizard\Setup.exe=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio 6.0\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Arquivos de programas\Microsoft Visual Studio 6.0\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO360.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+
+[Package|Instalação do Atomic Link|Configure Shared Files]
+Applicable=Yes
+C:\Meus documentos\Programas\Atomic Link\AtomicLink.exe=No
+C:\Meus documentos\Programas\Atomic Link\ARJ.EXE=No
+C:\Meus documentos\Programas\Atomic Link\AtomicLink.html=No
+C:\Meus documentos\Programas\Atomic Link\BDAF.af=No
+C:\Meus documentos\Programas\Atomic Link\BDNovos.af=No
+C:\Meus documentos\Programas\Atomic Link\Logotipo.jpg=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Instalação do Atomic Link|Distribution]
+Type=single
+Size=720 KB
+Title=Atomic Link
+
+[Package|Instalação do Atomic Link|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Instalação do Atomic Link|$(Programs)]
+Icon1=AtomicLink.exe
+Title1=Atomic Link
+StartIn1=$(AppPath)
+Key1=Icon4
+
+[Package|Instalação do Atomic Link|Package]
+PackageFolder=C:\Meus documentos\Programas\Atomic Link\Package
+ProjectFolder=C:\Meus documentos\Programas\Atomic Link
+ServerSideCab=
+File1=C:\Meus documentos\Programas\Atomic Link\Package\setup.exe
+File2=C:\Meus documentos\Programas\Atomic Link\Package\Setup.Lst
+File3=C:\Meus documentos\Programas\Atomic Link\Package\AtomicLink.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
